@@ -1,0 +1,6 @@
+media
+**/*.pyc
+.vscode/
+.env
+.DS*
+*.un~
